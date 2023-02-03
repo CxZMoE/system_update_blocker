@@ -1,7 +1,6 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
-template=3
+id=miui_update_blocker
+name=MIUI系统更新禁止
+version=v0.2
+version=2
+author=CxZMoE
+description=通过修改hosts的方式阻止系统更新联网
